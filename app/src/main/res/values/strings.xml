@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ImageViewサンプルアプリ</string>
+    <string name="ChangeImage">表示画像変更</string>
+    <string name="big_image">画面より大きい画像</string>
+    <string name="small_image">画面より小さい画像</string>
+    <string name="scaletype">Scaletypeの変更</string>
+    <string name="center_bt">center</string>
+    <string name="centerCrop_bt">centerCrop</string>
+    <string name="centerInside_bt">centerInside</string>
+    <string name="fitCenter_bt">fitCenter</string>
+    <string name="fitEnd_bt">fitEnd</string>
+    <string name="fitStart_bt">fitStart</string>
+    <string name="fitXY_bt">fitXY</string>
+    <string name="matrix_bt">matrix</string>
+</resources>
